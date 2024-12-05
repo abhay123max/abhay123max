@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Divyanshu Pandey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Abhay Pratap Singh Negi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Aspiring+Full+Stack+Developer+And+CPP+Developer;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
 </p>
@@ -56,19 +56,19 @@
 
 <div align="center">
 
-  <a href="https://github.com/Divyanshu592">![Footer quote][quote-url]</a>
+  <a href="https://github.com/abhay123max">![Footer quote][quote-url]</a>
 
 </div>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Divyanshu592/count.svg" />
+  <img src="https://profile-counter.glitch.me/abhay123max/count.svg" />
 </p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=Divyanshu592
-[github-stars-shield]: https://img.shields.io/github/stars/Divyanshu592?style=social
-[github-stats]:https://githubreadmestats.vercel.app/apiusername=Divyanshu592&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
+[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=abhay123max
+[github-stars-shield]: https://img.shields.io/github/stars/abhay123max?style=social
+[github-stats]:https://githubreadmestats.vercel.app/apiusername=abhay123max&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
 [leetcode-stats-url]: https://leetcard.jacoblin.cool/divyanshupandey3m?theme=dark&font=Roboto&ext=heatmap
 [gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=div_yanshu_01
 [leetcode-url]: https://leetcode.com/divyanshupandey3m/
