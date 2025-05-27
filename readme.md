@@ -71,29 +71,29 @@
 [github-stats]:https://githubreadmestats.vercel.app/apiusername=abhay123max&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
 [leetcode-stats-url]: https://leetcard.jacoblin.cool/divyanshupandey3m?theme=dark&font=Roboto&ext=heatmap
 [gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=div_yanshu_01
-[leetcode-url]: https://leetcode.com/divyanshupandey3m/
-[gfg-url]: https://auth.geeksforgeeks.org/user/div_yanshu_01
+[leetcode-url]: https://leetcode.com/u/pro_abh/
+[gfg-url]:https://www.geeksforgeeks.org/user/abhaypratah04w/
 [github-followers-shield]: https://img.shields.io/github/followers/?style=social
 [github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu592&theme=algolia
 [github-streak]: https://streak-stats.demolab.com?user=Divyanshu592&theme=algolia
 [github-trophy]: https://github-profile-trophy.vercel.app/?username=Divyanshu592&theme=algolia
 [leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/divyanshupandey3m/solved?color=orange&logo=leetcode
 [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
-[leetcode-url]: https://leetcode.com/divyanshupandey3m/
-[gfg-url]:https://auth.geeksforgeeks.org/user/div_yanshu_01
+[leetcode-url]: https://leetcode.com/u/pro_abh/
+[gfg-url]:https://www.geeksforgeeks.org/user/abhaypratah04w/
 [ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
 [ssrn-paper-url]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867738
 [ieee-shield]: https://img.shields.io/badge/IEEE-informational?style=flat&logo=ieee
 [ieee-paper-url]: https://ieeexplore.ieee.org/document/9807998
 [quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
 [gmail-shield]: https://img.shields.io/badge/-Divyanshu%20Pandey-grey?style=flat&logo=gmail
-[gmail-url]: mailto:divyanshu5923m@gmail.com
+[gmail-url]: mailto:abhaypratapnegi227@gmail.com
 [linkedin-shield]: https://img.shields.io/badge/-Divyanshu%20Pandey-blue?style=flat&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/divyanshu-pandey-212079235/
+[linkedin-url]: https://www.linkedin.com/in/abhay-pratap-singh-negi-6546b930a
 [github-shield]: https://img.shields.io/badge/-Divyanshu%20Pandey-black?style=flat&logo=github
 [linkedin-shield]: https://img.shields.io/badge/-Divyanshu%20Pandey-blue?style=flat&logo=linkedin&logoColor=white
 [github-shield]: https://img.shields.io/badge/-Divyanshu%20Pandey-black?style=flat&logo=github
 [quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia
 [leetcode-shield]: https://img.shields.io/badge/-Divyanshu%20Pandey-grey?style=flat&logo=leetcode
 [gfg-shield]: https://img.shields.io/badge/-Divyanshu%20Pandey-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
-[github-url]: https://github.com/Divyanshu592
+[github-url]: https://github.com/abhay123max
