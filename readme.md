@@ -69,8 +69,8 @@
 [visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=abhay123max
 [github-stars-shield]: https://img.shields.io/github/stars/abhay123max?style=social
 [github-stats]:https://githubreadmestats.vercel.app/apiusername=abhay123max&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
-[leetcode-stats-url]: https://leetcard.jacoblin.cool/divyanshupandey3m?theme=dark&font=Roboto&ext=heatmap
-[gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=div_yanshu_01
+[leetcode-stats-url]: https://leetcard.jacoblin.cool/pro_abh?theme=light&font=Arbutus&ext=heatmap
+[gfg-stats-url]:https://geeks-for-geeks-stats-api.vercel.app/?userName=abhaypratah04w
 [leetcode-url]: https://leetcode.com/u/pro_abh/
 [gfg-url]:https://www.geeksforgeeks.org/user/abhaypratah04w/
 [github-followers-shield]: https://img.shields.io/github/followers/?style=social
@@ -86,14 +86,14 @@
 [ieee-shield]: https://img.shields.io/badge/IEEE-informational?style=flat&logo=ieee
 [ieee-paper-url]: https://ieeexplore.ieee.org/document/9807998
 [quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
-[gmail-shield]: https://img.shields.io/badge/-Divyanshu%20Pandey-grey?style=flat&logo=gmail
+[gmail-shield]: https://img.shields.io/badge/Gmail-abhaypratapnegi227@gmail.com-red?style=for-the-badge&logo=gmail
 [gmail-url]: mailto:abhaypratapnegi227@gmail.com
-[linkedin-shield]: https://img.shields.io/badge/-Divyanshu%20Pandey-blue?style=flat&logo=linkedin&logoColor=white
+[linkedin-shield]:https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/abhay-pratap-singh-negi-6546b930a
 [github-shield]: https://img.shields.io/badge/-Divyanshu%20Pandey-black?style=flat&logo=github
 [linkedin-shield]: https://img.shields.io/badge/-Divyanshu%20Pandey-blue?style=flat&logo=linkedin&logoColor=white
 [github-shield]: https://img.shields.io/badge/-Divyanshu%20Pandey-black?style=flat&logo=github
 [quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia
-[leetcode-shield]: https://img.shields.io/badge/-Divyanshu%20Pandey-grey?style=flat&logo=leetcode
+[leetcode-shield]:https://img.shields.io/badge/LeetCode-pro__abh-orange?style=for-the-badge&logo=leetcode
 [gfg-shield]: https://img.shields.io/badge/-Divyanshu%20Pandey-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
 [github-url]: https://github.com/abhay123max
