@@ -90,7 +90,7 @@
 [gmail-url]: mailto:abhaypratapnegi227@gmail.com
 [linkedin-shield]:https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/abhay-pratap-singh-negi-6546b930a
-[github-shield]: https://img.shields.io/badge/-Divyanshu%20Pandey-black?style=flat&logo=github
+[github-shield]:  https://img.shields.io/badge/GitHub-abhay123max-black?style=for-the-badge&logo=github
 [linkedin-shield]:https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin
 [github-shield]: https://img.shields.io/badge/GitHub-abhay123max-black?style=for-the-badge&logo=github
 [quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia
